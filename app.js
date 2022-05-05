@@ -62,7 +62,7 @@
 // } else {
 //     console.log('курс не получился')
 // }
-//
+///
 const isReady = false
 
 
